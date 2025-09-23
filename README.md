@@ -6,14 +6,14 @@ Python ด้วยความง่ายและไลบรารีเพ�
 
 ---
 
-## 🛸 DJI Tello – Quick Specs
+# 🚀 Tello – DJI – Python
 
-![DJI Tello](https://www.dji.com/tello/info#downloads)  
-- น้ำหนักเบา ~80 กรัม  
+![DJI Tello](images/tello.jpg)
+
+- น้ำหนัก ~80 กรัม  
 - กล้อง HD 720p  
-- ควบคุมได้ทั้ง **Smartphone / Wi-Fi / Python**  
-- Vision Positioning System → บินนิ่งในร่ม  
-- Perfect สำหรับ **Education & Experimentation**
+- ควบคุมได้ทั้ง Smartphone / Wi-Fi / Python
+
 
 ---
 
